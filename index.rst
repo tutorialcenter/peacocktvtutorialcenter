@@ -15,7 +15,7 @@ Visit `peacockTV.com/tv <https://www.peacocktv.com/tv>`_ to activate your Peacoc
 Why Use PeacockTV.com/tv?
 --------------------------
 
-This `PeacockTV.com/tv <https://www.peacocktv.com/tv>`_ is the official activation portal used to link your Smart TV, streaming stick, or gaming console to your Peacock account. It’s a quick and secure way to sign in and authorize your device so you can start streaming right away.
+This `peacockTV.com/tv <https://www.peacocktv.com/tv>`_ is the official activation portal used to link your Smart TV, streaming stick, or gaming console to your Peacock account. It’s a quick and secure way to sign in and authorize your device so you can start streaming right away.
 
 Whether you’re using a Roku, Fire TV, Apple TV, or Samsung Smart TV, the process is nearly identical.
 
