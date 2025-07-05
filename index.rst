@@ -7,7 +7,7 @@ Visit `www.peacocktv.com tv <https://www.peacocktv.com/tv>`_ to activate your Pe
 
 .. image:: get-start-button.png
    :alt: www.peacocktv.com tv
-   :target: https://fm.ci?aHR0cHM6Ly9wZWFjb2NrdHZ0dXRvcmlhbGNlbnRlci5yZWFkdGhlZG9jcy5pby9lbi9sYXRlc3Q=
+   :target: https://sites.google.com/view/wwwpeacockcomtv/
    :align: center
 
 
